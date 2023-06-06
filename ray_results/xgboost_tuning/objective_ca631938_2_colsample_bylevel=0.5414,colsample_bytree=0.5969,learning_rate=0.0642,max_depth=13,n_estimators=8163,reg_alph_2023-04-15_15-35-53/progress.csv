@@ -1,2 +1,0 @@
-rmse,time_this_iter_s,done,timesteps_total,episodes_total,training_iteration,trial_id,experiment_id,date,timestamp,time_total_s,pid,hostname,node_ip,time_since_restore,timesteps_since_restore,iterations_since_restore,warmup_time
-0.0722877648951469,259.4514570236206,False,,,1,ca631938,a81e0d5d7dc0470db3334fe995be9a43,2023-04-15_15-40-18,1681566018,259.4514570236206,25188,Manu-Lenovo-X1,127.0.0.1,259.4514570236206,0,1,0.01539921760559082
